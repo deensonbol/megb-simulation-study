@@ -73,11 +73,11 @@ performance compared to a standard **Gradient Boosting Machine (GBM)**.
 ## Output
 
 Produces 5 figures saved as 300 dpi PNGs:
-- `figure1_subject_holdout_rmse.png`
-- `figure2_time_split_rmse.png`
-- `figure3_time_split_difference_boxplot.png`
-- `figure4_independent_dataset_rmse.png`
-- `figure5_tuned_test_rmse.png`
+![Figure 1 - Subject Holdout](figure1_subject_holdout_rmse.jpeg)
+![Figure 2 - Time Split RMSE](figure2_time_split_rmse.jpeg)
+![Figure 3 - Time Split Difference](figure3_time_split_difference_boxplot.jpeg)
+![Figure 4 - Independent Dataset](figure4_independent_dataset_rmse.jpeg)
+![Figure 5 - Tuned Test RMSE](figure5_tuned_test_rmse.jpeg)
 
 ---
 
