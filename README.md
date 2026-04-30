@@ -1,7 +1,7 @@
 # Evaluating Mixed-Effects Gradient Boosting for Longitudinal Data Prediction
 
 **Deen Sonbol**  
-MS Thesis — Master of Science in Biostatistics  
+MS Thesis: Master of Science in Biostatistics  
 Rutgers School of Public Health, May 2026  
 Advisor: Dr. Shou-En Lu
 
